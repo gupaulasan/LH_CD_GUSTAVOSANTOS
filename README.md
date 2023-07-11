@@ -16,4 +16,4 @@ Com Python instalado e um ambiente compatível com JupyterNotebook disponíveis,
 - Seaborn
 - Matplotlib
 
-Com esses requisitos atendidos, é possível realizar o download dos arquivos de extensão *.ipynb*, em conjunto com os arquivos *cars_train.csv* e *cars_test.csv* e executar o programa
+Com esses requisitos atendidos, é possível realizar o download do repositório e executar os programas do tipo *.ipynb*
